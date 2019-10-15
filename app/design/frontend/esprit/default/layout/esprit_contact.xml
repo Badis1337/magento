@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="1.0.0" ?>
+<layout version="1.0">
+
+    <esprit_contact_index_index>
+        <reference name="content">
+            <block type="esprit_contact/form" name="esprit_contact_form" template="app/design/frontend/esprit/default/template/contact/form.phtml"/>
+
+        </reference>
+
+    </esprit_contact_index_index>
+</layout>

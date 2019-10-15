@@ -1,0 +1,107 @@
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T08:58:05+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:16:20+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:27+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:39+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:44+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:49+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:19:56+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:52+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+ine 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:21:57+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:18+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:24+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:33+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : xmlParsePI : no target name  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string():   ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;? xml version=&quot;1.0&quot;?&gt;  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2019-10-14T09:22:38+00:00 ERR (3): Warning: simplexml_load_string():    ^  in C:\wamp64\www\magento\lib\Varien\Simplexml\Config.php on line 510
